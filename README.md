@@ -9,7 +9,7 @@ I’ve decided to open a small robot-run cafe in Los Angeles. The project is pro
 I am an analytic, so my partners have asked me to prepare some market research. I have open-source data on restaurants in LA.
 
 # Steps
-1) Prepare data for analysis
+1) Prepare data for analysis.
 2) Data analysis.<br/>
     - Investigate the proportions of the various types of establishments. Plot a graph.
     - Investigate the proportions of chain and nonchain establishments. Plot a graph. Which type of establishment is typically a chain?
