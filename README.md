@@ -1,7 +1,7 @@
 # Practicum_project_8
  My eighth project from Practicum course. "How to Tell a Story Using Data"
 
- What was used in the project: Python, Jupyter notebook. Libraries: pandas, numpy, plotly, matplotlib, seaborn, altair, usaddress.
+ What was used in the project: Python, Jupyter notebook, PowerPoint. Libraries: pandas, numpy, plotly, matplotlib, seaborn, altair, usaddress.
 
 # Project Description
 
